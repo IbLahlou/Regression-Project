@@ -5,14 +5,19 @@
 
 ## Introduction
 
+<details>
 Studying the correlation between ozone levels and various environmental parameters such as temperature, rain, wind, and natural factors is crucial for understanding the impact of these factors on air quality. Ozone, a major component of smog, is a harmful air pollutant that can have negative effects on human health and the environment. This project aims to analyze the relationship between ozone levels and environmental parameters using statistical techniques and develop insights to improve air quality and reduce ozone pollution.
+</details>
 
 ## Objective
 
+<details>
 The main objective of this project is to analyze the correlation between ozone levels and various environmental parameters. By collecting and analyzing data over time, we aim to identify patterns and relationships between ozone levels and factors like temperature, wind, cloud cover, and rain. This analysis will help us gain insights into the underlying causes of ozone pollution and contribute to the development of strategies to mitigate its adverse effects.
+</details>
 
 ## Variables
 
+<details>
 The dataset used in this project contains the following variables:
 
 - MaxO3: Maximum value of ozone observed over a day.
@@ -22,9 +27,11 @@ The dataset used in this project contains the following variables:
 - MaxO3V: Maximum ozone level observed on the previous day.
 - Wind: Wind direction at 12:00 noon.
 - Rain: Presence or absence of rain.
+</details>
 
 ## Data Analysis
 
+<details>
 The project follows the below steps for data analysis:
 
 1. Data Importation: Importing the dataset into the analysis environment.
@@ -35,6 +42,7 @@ The project follows the below steps for data analysis:
 6. Test for Relationships: Using statistical tests to identify significant relationships between ozone levels and environmental parameters.
 7. Hypothesis: Formulating hypotheses about the factors influencing ozone levels.
 8. Realizing Regression: Implementing linear regression models to predict ozone concentrations.
+</details>
 
 ## Regression Models
 
@@ -74,13 +82,17 @@ pip install bokeh
 
 ## Conclusion
 
+<details>
 The regression analysis will provide valuable insights into the correlation between ozone levels and various environmental parameters. By understanding these relationships, we can develop predictive models for ozone concentrations and potentially study the impact of ozone pollution on air quality, human health, and the environment. The `Linear_Regression_Notebook.ipynb` contains the detailed step-by-step implementation of the project.
+
+
+
+</details>
 
 Feel free to explore the notebook and use the code and findings for your own research and projects.
 
 If you have any questions or suggestions, please feel free to reach out.
 
-Let's contribute to a better understanding of ozone pollution and work towards improving air quality!
 
 ![image](https://github.com/IbLahlou/Regression-Project/assets/105231126/e1abee39-4069-4482-ab8e-e2505a81740c)
 
