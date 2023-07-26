@@ -1,5 +1,6 @@
 # Ozone Regression Project
 
+![image](https://github.com/IbLahlou/Regression-Project/assets/105231126/ab8b4db4-2e30-41d7-a7ab-a05149154e93)
 
 
 ## Introduction
@@ -51,11 +52,38 @@ The project uses two types of regression models:
    - Prevision of Ozone's Concentration: Utilizing the multiple regression model for ozone concentration predictions.
    - Result Analysis: Assessing model performance through various diagnostic tests.
 
+## Required Python Libraries
+
+Before running the analysis code, ensure you have the following Python libraries installed:
+
+- pandas: Used for data manipulation and analysis.
+- numpy: Required for numerical operations and array handling.
+- statsmodels: Used for statistical modeling and hypothesis testing.
+- Seaborn: A powerful library for statistical data visualization.
+- bokeh: Enables interactive and visually appealing data visualization in web browsers.
+
+Install these libraries using the following commands in your Python environment:
+
+```bash
+pip install pandas
+pip install numpy
+pip install statsmodels
+pip install seaborn
+pip install bokeh
+```
+
 ## Conclusion
 
-The regression analysis provides valuable insights into the correlation between ozone levels and environmental factors. By understanding these relationships, we can develop strategies and policies to reduce ozone pollution and improve air quality. The `Linear_Regression_Notebook.ipynb` contains the detailed step-by-step implementation of the project.
+The regression analysis will provide valuable insights into the correlation between ozone levels and various environmental parameters. By understanding these relationships, we can develop predictive models for ozone concentrations and potentially study the impact of ozone pollution on air quality, human health, and the environment. The `Linear_Regression_Notebook.ipynb` contains the detailed step-by-step implementation of the project.
 
 Feel free to explore the notebook and use the code and findings for your own research and projects.
+
+If you have any questions or suggestions, please feel free to reach out.
+
+Let's contribute to a better understanding of ozone pollution and work towards improving air quality!
+
+![image](https://github.com/IbLahlou/Regression-Project/assets/105231126/e1abee39-4069-4482-ab8e-e2505a81740c)
+
 
 If you have any questions or suggestions, please feel free to reach out.
 
