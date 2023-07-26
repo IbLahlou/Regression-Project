@@ -80,6 +80,12 @@ pip install seaborn
 pip install bokeh
 ```
 
+## License
+This project is open-source and available under the MIT License.
+
+![image](https://github.com/IbLahlou/Regression-Project/assets/105231126/8937edc5-198b-4ea8-b600-1be4cf4b9172)
+
+
 ## Conclusion
 
 <details>
